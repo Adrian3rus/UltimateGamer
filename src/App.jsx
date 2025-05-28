@@ -1,13 +1,7 @@
-
-import NavBar from './Components/NavBar';
-import Inicio from './Pages/Inicio';
-import ListaDeJuegos from './Pages/ListaDeJuegos';
-import Saludo from './Pages/Saludo';
-
-import Contacto from './Pages/Contacto';
-import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
-import './app.css'
-import "bootstrap/dist/css/bootstrap.min.css";
+import { useState } from 'react'
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+import './App.css'
 
 function App() {
 
