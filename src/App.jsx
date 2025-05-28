@@ -1,12 +1,11 @@
-import './App.css'
 import NavBar from './Components/NavBar';
 import Inicio from './Pages/Inicio';
 import ListaDeJuegos from './Pages/ListaDeJuegos';
 import Saludo from './Pages/Saludo';
 import Contacto from './Pages/Contacto';
 import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
-import './src/App.css'
 import "bootstrap/dist/css/bootstrap.min.css";
+import './App.css'
 
 function App() {
 
