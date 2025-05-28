@@ -5,7 +5,7 @@ import ListaDeJuegos from './Pages/ListaDeJuegos';
 import Saludo from './Pages/Saludo';
 import Contacto from './Pages/Contacto';
 import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
-import './app.css'
+import './src/app.css'
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
